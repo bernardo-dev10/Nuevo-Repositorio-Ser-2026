@@ -1,2 +1,5 @@
 "Mi proyecto Septiembre 2026" 
 --Sigo aprendiendo git--
+
+1) Continuar mañana.
+En GitHub, tengo 3 repo...ahora estoy con Nuevo-Repositorio....
